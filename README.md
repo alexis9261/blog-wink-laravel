@@ -19,3 +19,7 @@ Se pueden crear, edictar y elimnar posts
 ###NOTA
 
 El paquete wink no proporciona las vistas del cliente para poder leer los posts, es necesario crear los controladores, rutas y vistas correspondientes.
+
+No es necesario ejecutar las migraciones que vienen por defecto en laravel para la creacion de la tabla 'users', ni instalar ningun paquete de autenticacion. Wink ya viene con un sistema de autenticacion.
+
+
